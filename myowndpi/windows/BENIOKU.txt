@@ -1,0 +1,36 @@
+myowndpi - Windows surumu
+=========================
+
+macOS surumuyla ayni isi yapar: SADECE Discord ve Roblox icin DPI engelini
+atlatir (DoH ile DNS + TLS ClientHello'yu SNI'den bolme). Diger tum siteler
+ve oyunlar hic dokunulmadan normal internetten gider.
+
+KURULUM (bir kere)
+  1. Python 3 kurun: https://www.python.org/downloads/
+     Kurulumda "Add python.exe to PATH" kutusunu ISARETLEYIN.
+  2. Bu "windows" klasorunu bilgisayarda istediginiz yere koyun
+     (ornegin Belgeler\myowndpi). Klasoru tasirsaniz "dpi.bat stop" ve
+     sonra tekrar "dpi.bat start" calistirin.
+
+KULLANIM (klasorde Komut Istemi / PowerShell acip)
+  dpi.bat start     Proxy'yi baslatir, Windows proxy (PAC) ayarini ve
+                    HTTPS_PROXY ortam degiskenini yazar, Windows acilinca
+                    otomatik baslamayi acar.
+  dpi.bat stop      Hepsini kapatir ve ayarlari geri alir.
+  dpi.bat status    Durumu gosterir.
+  dpi.bat log       Canli kaydi gosterir (TUNEL satirlari = calisiyor).
+  dpi.bat discord   Discord'u kapatip proxy ile yeniden acar.
+  dpi.bat roblox    Roblox'u kapatip proxy ile yeniden acar.
+
+  dpi.bat dosyasina cift tiklamak yetmez, komutla birlikte calistirin
+  (ornegin klasorde adres cubuguna "cmd" yazip Enter, sonra "dpi.bat start").
+
+NOTLAR
+  * "start" sonrasi acik olan Discord/Roblox'u tamamen kapatip (sistem
+    tepsisinden de) yeniden acin, ya da "dpi.bat discord" kullanin.
+  * Windows'ta ayarlar yeniden baslatmada silinmedigi icin proxy oturum
+    acilinca otomatik baslar. Kullanmak istemediginizde "dpi.bat stop"
+    calistirin; yoksa Discord/Roblox proxy olmadan baglanamaz.
+  * Sesli sohbet ve Roblox oyun sunuculari UDP kullanir, proxy'den gecmez;
+    bunlar engelli olmadigi icin gerek yok.
+  * Izin listesi dpi.py icindeki ALLOWED_SUFFIXES'te.

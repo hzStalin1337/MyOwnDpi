@@ -1,4 +1,4 @@
-# myowndpi kontrol betigi (Windows): .\dpi.ps1 start | stop | status | log | discord | roblox
+# myowndpi kontrol betigi (Windows): .\dpi.ps1 start | stop | status | log | test | discord | roblox
 param([string]$Command = "")
 
 $ErrorActionPreference = "Stop"
@@ -101,6 +101,29 @@ function Show-Status {
     Write-Host "Otomatik baslatma: $(if ($run) { 'acik' } else { 'kapali' })"
 }
 
+function Test-Dpi {
+    $ErrorActionPreference = "Continue"
+    # PowerShell 5.1 varsayilan olarak eski TLS kullanir
+    [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+    Write-Host "== Python: $(try { Find-Python } catch { $_.Exception.Message })"
+    Write-Host "== Surec: $(if (Test-Running) { 'calisiyor' } else { 'CALISMIYOR' })"
+    try {
+        $r = Invoke-WebRequest $PacUrl -UseBasicParsing -TimeoutSec 5
+        Write-Host "== PAC: OK ($($r.Content.Length) bayt)"
+    } catch { Write-Host "== PAC: HATA $($_.Exception.Message)" }
+    foreach ($u in "https://discord.com/api/v9/gateway", "https://www.roblox.com/") {
+        try {
+            $r = Invoke-WebRequest $u -Proxy $Proxy -UseBasicParsing -TimeoutSec 20
+            Write-Host "== $u proxy ile: $($r.StatusCode)"
+        } catch { Write-Host "== $u proxy ile: HATA $($_.Exception.Message)" }
+    }
+    Show-Status
+    foreach ($f in $LogFile, $OutFile) {
+        Write-Host "== $f (son satirlar)"
+        if (Test-Path $f) { Get-Content $f -Tail 15 } else { Write-Host "(yok)" }
+    }
+}
+
 function Restart-App([string]$which) {
     if (-not (Test-Running)) { Start-Dpi }
     Set-ProxyEnv  # bu oturumdan baslatilan uygulama da proxy'yi gorsun
@@ -128,7 +151,8 @@ switch ($Command.ToLower()) {
     "stop"    { Stop-Dpi }
     "status"  { Show-Status }
     "log"     { Get-Content $LogFile -Wait -Tail 30 }
+    "test"    { Test-Dpi }
     "discord" { Restart-App "discord" }
     "roblox"  { Restart-App "roblox" }
-    default   { Write-Host "Kullanim: dpi.bat {start|stop|status|log|discord|roblox}"; exit 1 }
+    default   { Write-Host "Kullanim: dpi.bat {start|stop|status|log|test|discord|roblox}"; exit 1 }
 }

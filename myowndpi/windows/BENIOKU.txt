@@ -19,6 +19,8 @@ KULLANIM (klasorde Komut Istemi / PowerShell acip)
   dpi.bat stop      Hepsini kapatir ve ayarlari geri alir.
   dpi.bat status    Durumu gosterir.
   dpi.bat log       Canli kaydi gosterir (TUNEL satirlari = calisiyor).
+  dpi.bat test      Python, proxy, Discord/Roblox baglantisini test eder ve
+                    kayitlari gosterir. Sorun olursa bu ciktiyi gonderin.
   dpi.bat discord   Discord'u kapatip proxy ile yeniden acar.
   dpi.bat roblox    Roblox'u kapatip proxy ile yeniden acar.
 

@@ -15985,3 +15985,327 @@
 21:20:39 KAPANDI dfw2-128-116-95-3.roblox.com  giden=3340 gelen=6330
 21:20:42 hata ('127.0.0.1', 60200) silver.roblox.com:443: silver.roblox.com:443 baglanamadi (TimeoutError())
 21:20:43 KAPANDI tracing.roblox.com  giden=4371 gelen=1376
+21:21:21 KAPANDI apis.roblox.com  giden=4176 gelen=1577
+21:21:23 KAPANDI lms-aws-ap-northeast-3.roblox.com  giden=3372 gelen=5216
+21:21:24 TUNEL CONNECT apis.roblox.com
+21:21:25 KAPANDI voice.roblox.com  giden=3609 gelen=1955
+21:21:25 KAPANDI games.roblox.com  giden=3670 gelen=9873
+21:21:25 TUNEL CONNECT games.roblox.com
+21:21:25 TUNEL CONNECT voice.roblox.com
+21:21:26 KAPANDI lms-aws-us-west-1.roblox.com  giden=3248 gelen=5012
+21:21:29 KAPANDI lms-aws-ap-southeast-3.roblox.com  giden=3257 gelen=5021
+21:21:33 KAPANDI images-ext-1.discordapp.net  giden=3303 gelen=33887
+21:21:33 TUNEL CONNECT images-ext-1.discordapp.net
+21:21:51 TUNEL CONNECT clientsettingscdn.roblox.com
+21:21:51 KAPANDI clientsettingscdn.roblox.com  giden=3424 gelen=6651
+21:22:13 TUNEL CONNECT lms.roblox.com
+21:22:13 KAPANDI lms.roblox.com  giden=3577 gelen=1946
+21:22:13 KAPANDI ord2-128-116-48-3.roblox.com  giden=3482 gelen=6502
+21:22:14 TUNEL CONNECT iad5-44-197-17-243.roblox.com
+21:22:14 KAPANDI iad5-44-197-17-243.roblox.com  giden=3486 gelen=6491
+21:22:14 TUNEL CONNECT fra4-128-116-44-3.roblox.com
+21:22:14 KAPANDI ams2-128-116-21-3.roblox.com  giden=3483 gelen=6501
+21:22:14 KAPANDI cdg2-128-116-13-3.roblox.com  giden=3483 gelen=6503
+21:22:14 KAPANDI iad2-128-116-56-3.roblox.com  giden=3338 gelen=6332
+21:22:14 KAPANDI mia4-128-116-45-3.roblox.com  giden=3482 gelen=6503
+21:22:14 KAPANDI sea1-128-116-115-3.roblox.com  giden=3340 gelen=6339
+21:22:15 TUNEL CONNECT ord2-128-116-48-3.roblox.com
+21:22:16 TUNEL CONNECT cdg2-128-116-13-3.roblox.com
+21:22:17 TUNEL CONNECT iad2-128-116-56-3.roblox.com
+21:22:17 TUNEL CONNECT ams2-128-116-21-3.roblox.com
+21:22:17 KAPANDI bom2-128-116-47-3.roblox.com  giden=3483 gelen=6500
+21:22:17 KAPANDI sin2-128-116-97-3.roblox.com  giden=3339 gelen=6339
+21:22:18 TUNEL CONNECT silver.roblox.com
+21:22:23 KAPANDI roblox-poc.global.ssl.fastly.net  giden=2022 gelen=55440
+21:22:23 TUNEL CONNECT sin6c2-128-116-46-3.roblox.com
+21:22:24 TUNEL CONNECT gold.roblox.com
+21:22:24 KAPANDI cdn.discordapp.com  giden=2708 gelen=11153
+21:22:24 KAPANDI cdn.discordapp.com  giden=3463 gelen=56513
+21:22:25 TUNEL CONNECT lga2-128-116-32-3.roblox.com
+21:22:26 KAPANDI sc0gcp.rbxcdn.com  giden=2059 gelen=60300
+21:22:26 KAPANDI contentdelivery.roblox.com  giden=3475 gelen=114073
+21:22:26 TUNEL CONNECT sin6-128-116-54-3.roblox.com
+21:22:26 KAPANDI nrt2-128-116-120-3.roblox.com  giden=3484 gelen=6492
+21:22:26 hata ('127.0.0.1', 60236) silver.roblox.com:443: silver.roblox.com:443 baglanamadi (TimeoutError())
+21:22:27 TUNEL CONNECT contentdelivery.roblox.com
+21:22:28 TUNEL CONNECT dfw2-128-116-95-3.roblox.com
+21:22:29 TUNEL CONNECT bom2-128-116-47-3.roblox.com
+21:22:29 TUNEL CONNECT roblox-poc.global.ssl.fastly.net
+21:22:30 KAPANDI fra2-128-116-5-3.roblox.com  giden=3339 gelen=6336
+21:22:30 KAPANDI syd1-128-116-51-3.roblox.com  giden=3339 gelen=6332
+21:22:30 TUNEL CONNECT sin2-128-116-97-3.roblox.com
+21:22:31 TUNEL CONNECT iad4-128-116-102-3.roblox.com
+21:22:31 TUNEL CONNECT syd1-128-116-51-3.roblox.com
+21:22:33 TUNEL CONNECT lms-aws-ap-southeast-1.roblox.com
+21:23:25 KAPANDI apis.roblox.com  giden=4176 gelen=1577
+21:23:27 KAPANDI games.roblox.com  giden=3669 gelen=9419
+21:23:27 KAPANDI voice.roblox.com  giden=3608 gelen=1764
+21:23:34 KAPANDI lms-aws-ap-southeast-1.roblox.com  giden=3256 gelen=5021
+21:23:40 KAPANDI ecsv2.roblox.com  giden=14048 gelen=3236
+21:23:44 TUNEL CONNECT ephemeralcounters.api.roblox.com
+21:23:44 TUNEL CONNECT voice.roblox.com
+21:23:52 TUNEL CONNECT clientsettingscdn.roblox.com
+21:23:52 KAPANDI clientsettingscdn.roblox.com  giden=3424 gelen=6636
+21:24:13 TUNEL CONNECT lms.roblox.com
+21:24:13 KAPANDI sc0.rbxcdn.com  giden=2178 gelen=113554
+21:24:13 KAPANDI fra4-128-116-44-3.roblox.com  giden=3339 gelen=6338
+21:24:13 KAPANDI lms.roblox.com  giden=3577 gelen=1927
+21:24:13 KAPANDI iad5-44-197-17-243.roblox.com  giden=3341 gelen=6328
+21:24:13 TUNEL CONNECT silver.roblox.com
+21:24:14 KAPANDI discord.com  giden=163945 gelen=142883
+21:24:18 TUNEL CONNECT lax4-128-116-63-3.roblox.com
+21:24:18 KAPANDI ams2-128-116-21-3.roblox.com  giden=3339 gelen=6377
+21:24:18 KAPANDI lhr4-128-116-31-3.roblox.com  giden=3881 gelen=1294
+21:24:18 KAPANDI cdg2-128-116-13-3.roblox.com  giden=3339 gelen=6379
+21:24:19 KAPANDI lga4-128-116-30-3.roblox.com  giden=3483 gelen=6541
+21:24:19 KAPANDI iad2-128-116-56-3.roblox.com  giden=3339 gelen=6371
+21:24:19 KAPANDI atl4-128-116-2-3.roblox.com  giden=3481 gelen=6530
+21:24:19 KAPANDI ord2-128-116-48-3.roblox.com  giden=3339 gelen=6378
+21:24:19 KAPANDI mia2-128-116-127-3.roblox.com  giden=3484 gelen=6541
+21:24:19 KAPANDI dfw4-128-116-14-3.roblox.com  giden=3484 gelen=6541
+21:24:19 KAPANDI lax4-128-116-63-3.roblox.com  giden=3484 gelen=6543
+21:24:19 KAPANDI gru1-128-116-86-3.roblox.com  giden=3483 gelen=6541
+21:24:19 TUNEL CONNECT ams2-128-116-21-3.roblox.com
+21:24:20 TUNEL CONNECT gru1-128-116-86-3.roblox.com
+21:24:21 KAPANDI sc0ak.rbxcdn.com  giden=2200 gelen=112489
+21:24:21 hata ('127.0.0.1', 60285) silver.roblox.com:443: silver.roblox.com:443 baglanamadi (TimeoutError())
+21:24:21 TUNEL CONNECT sc0ak.rbxcdn.com
+21:24:23 TUNEL CONNECT sin4-128-116-50-3.roblox.com
+21:24:25 KAPANDI lga2-128-116-32-3.roblox.com  giden=3339 gelen=6339
+21:24:25 TUNEL CONNECT lhr4-128-116-31-3.roblox.com
+21:24:25 TUNEL CONNECT lga4-128-116-30-3.roblox.com
+21:24:26 TUNEL CONNECT lga2-128-116-32-3.roblox.com
+21:24:26 KAPANDI contentdelivery.roblox.com  giden=3334 gelen=60124
+21:24:26 KAPANDI lax2-128-116-116-3.roblox.com  giden=3740 gelen=1092
+21:24:26 KAPANDI sin6-128-116-54-3.roblox.com  giden=3339 gelen=6329
+21:24:26 TUNEL CONNECT cdg2-128-116-13-3.roblox.com
+21:24:27 TUNEL CONNECT fra4-128-116-44-3.roblox.com
+21:24:27 TUNEL CONNECT mia4-128-116-45-3.roblox.com
+21:24:28 TUNEL CONNECT iad2-128-116-56-3.roblox.com
+21:24:28 KAPANDI roblox-poc.global.ssl.fastly.net  giden=2022 gelen=55440
+21:24:29 TUNEL CONNECT sin6-128-116-54-3.roblox.com
+21:24:30 TUNEL CONNECT iad5-44-197-17-243.roblox.com
+21:24:30 KAPANDI iad4-128-116-102-3.roblox.com  giden=3341 gelen=6340
+21:24:31 TUNEL CONNECT sc0.rbxcdn.com
+21:24:32 TUNEL CONNECT mia2-128-116-127-3.roblox.com
+21:24:32 TUNEL CONNECT lms-aws-us-east-1-scl-1a.roblox.com
+21:24:33 TUNEL CONNECT lax2-128-116-116-3.roblox.com
+21:24:34 TUNEL CONNECT lms-aws-us-west-1.roblox.com
+21:24:35 TUNEL CONNECT lms-aws-us-west-2.roblox.com
+21:24:36 TUNEL CONNECT sea1-128-116-115-3.roblox.com
+21:24:37 TUNEL CONNECT iad4-128-116-102-3.roblox.com
+21:24:46 TUNEL CONNECT friends.roblox.com
+21:24:46 TUNEL CONNECT games.roblox.com
+21:24:46 TUNEL CONNECT thumbnails.roblox.com
+21:25:02 TUNEL CONNECT discord.com
+21:25:03 TUNEL CONNECT cdn.discordapp.com
+21:25:03 TUNEL CONNECT media.discordapp.net
+21:25:10 TUNEL CONNECT ecsv2.roblox.com
+21:25:33 KAPANDI lms-aws-us-east-1-scl-1a.roblox.com  giden=3260 gelen=5022
+21:25:35 KAPANDI lms-aws-us-west-1.roblox.com  giden=3248 gelen=5012
+21:25:36 KAPANDI lms-aws-us-west-2.roblox.com  giden=3248 gelen=5012
+21:25:44 KAPANDI ephemeralcounters.api.roblox.com  giden=4191 gelen=6803
+21:25:44 KAPANDI voice.roblox.com  giden=3580 gelen=1878
+21:25:52 TUNEL CONNECT clientsettingscdn.roblox.com
+21:25:52 KAPANDI clientsettingscdn.roblox.com  giden=3440 gelen=5479
+21:25:56 TUNEL CONNECT tracing.roblox.com
+21:26:08 KAPANDI cdn.discordapp.com  giden=28413 gelen=13988288
+21:26:08 TUNEL CONNECT cdn.discordapp.com
+21:26:08 TUNEL CONNECT cdn.discordapp.com
+21:26:08 KAPANDI cdn.discordapp.com  giden=2031 gelen=1375
+21:26:13 TUNEL CONNECT lms.roblox.com
+21:26:13 KAPANDI lms.roblox.com  giden=3577 gelen=1891
+21:26:14 TUNEL CONNECT contentdelivery.roblox.com
+21:26:15 TUNEL CONNECT lms-aws-us-west-2.roblox.com
+21:26:18 TUNEL CONNECT lms-aws-ap-southeast-1.roblox.com
+21:26:19 KAPANDI lax4-128-116-63-3.roblox.com  giden=3340 gelen=6380
+21:26:19 TUNEL CONNECT lms-aws-us-east-1-lim-1a.roblox.com
+21:26:20 KAPANDI gold.roblox.com  giden=3461 gelen=6501
+21:26:20 TUNEL CONNECT roblox-poc.global.ssl.fastly.net
+21:26:21 KAPANDI sin6c2-128-116-46-3.roblox.com  giden=3487 gelen=6500
+21:26:21 TUNEL CONNECT dfw4-128-116-14-3.roblox.com
+21:26:22 TUNEL CONNECT lax4-128-116-63-3.roblox.com
+21:26:22 KAPANDI sc0ak.rbxcdn.com  giden=2058 gelen=58485
+21:26:22 KAPANDI bom2-128-116-47-3.roblox.com  giden=3482 gelen=6500
+21:26:23 TUNEL CONNECT ord2-128-116-48-3.roblox.com
+21:26:24 TUNEL CONNECT sin6c2-128-116-46-3.roblox.com
+21:26:24 TUNEL CONNECT atl4-128-116-2-3.roblox.com
+21:26:25 KAPANDI lga4-128-116-30-3.roblox.com  giden=3339 gelen=6339
+21:26:25 TUNEL CONNECT lga2-128-116-32-3.roblox.com
+21:26:26 KAPANDI lga2-128-116-32-3.roblox.com  giden=3339 gelen=6339
+21:26:26 TUNEL CONNECT lga4-128-116-30-3.roblox.com
+21:26:27 TUNEL CONNECT fra2-128-116-5-3.roblox.com
+21:26:27 TUNEL CONNECT pulsar.roblox.com
+21:26:28 KAPANDI iad2-128-116-56-3.roblox.com  giden=3339 gelen=6332
+21:26:32 TUNEL CONNECT mia2-128-116-127-3.roblox.com
+21:26:33 KAPANDI mia2-128-116-127-3.roblox.com  giden=3341 gelen=6378
+21:26:33 KAPANDI lax2-128-116-116-3.roblox.com  giden=3596 gelen=929
+21:26:33 KAPANDI media.discordapp.net  giden=3805 gelen=21374
+21:26:33 KAPANDI images-ext-1.discordapp.net  giden=3022 gelen=12635
+21:26:36 hata ('127.0.0.1', 60416) pulsar.roblox.com:443: pulsar.roblox.com:443 baglanamadi (TimeoutError())
+21:26:41 KAPANDI sea1-128-116-115-3.roblox.com  giden=3341 gelen=6378
+21:26:47 KAPANDI thumbnails.roblox.com  giden=4138 gelen=1850
+21:26:56 KAPANDI games.roblox.com  giden=3457 gelen=8726
+21:26:56 KAPANDI friends.roblox.com  giden=3521 gelen=2111
+21:27:11 KAPANDI ecsv2.roblox.com  giden=4672 gelen=1340
+21:27:16 KAPANDI lms-aws-us-west-2.roblox.com  giden=3248 gelen=5012
+21:27:19 KAPANDI lms-aws-ap-southeast-1.roblox.com  giden=3256 gelen=5021
+21:27:20 KAPANDI lms-aws-us-east-1-lim-1a.roblox.com  giden=3259 gelen=5026
+21:27:53 TUNEL CONNECT clientsettingscdn.roblox.com
+21:27:53 KAPANDI clientsettingscdn.roblox.com  giden=3424 gelen=6639
+21:28:03 TUNEL CONNECT friends.roblox.com
+21:28:10 TUNEL CONNECT ecsv2.roblox.com
+21:28:13 TUNEL CONNECT lms.roblox.com
+21:28:13 KAPANDI ams2-128-116-21-3.roblox.com  giden=3482 gelen=6501
+21:28:13 KAPANDI lms.roblox.com  giden=3577 gelen=1954
+21:28:13 KAPANDI contentdelivery.roblox.com  giden=3334 gelen=60155
+21:28:13 KAPANDI iad4-128-116-102-3.roblox.com  giden=3484 gelen=6503
+21:28:13 KAPANDI sin4-128-116-50-3.roblox.com  giden=3483 gelen=6503
+21:28:14 TUNEL CONNECT ams2-128-116-21-3.roblox.com
+21:28:15 TUNEL CONNECT dfw2-128-116-95-3.roblox.com
+21:28:15 KAPANDI dfw2-128-116-95-3.roblox.com  giden=3627 gelen=6656
+21:28:16 TUNEL CONNECT sea1-128-116-115-3.roblox.com
+21:28:16 KAPANDI sc0aws.rbxcdn.com  giden=2460 gelen=221419
+21:28:16 KAPANDI sc0.rbxcdn.com  giden=2196 gelen=112492
+21:28:16 KAPANDI sin2-128-116-97-3.roblox.com  giden=3627 gelen=6665
+21:28:16 KAPANDI sin6-128-116-54-3.roblox.com  giden=3483 gelen=6494
+21:28:16 KAPANDI syd1-128-116-51-3.roblox.com  giden=3626 gelen=6658
+21:28:17 TUNEL CONNECT mia4-128-116-45-3.roblox.com
+21:28:17 KAPANDI mia4-128-116-45-3.roblox.com  giden=3482 gelen=6503
+21:28:17 TUNEL CONNECT silver.roblox.com
+21:28:22 TUNEL CONNECT sc0ak.rbxcdn.com
+21:28:22 KAPANDI fra4-128-116-44-3.roblox.com  giden=3482 gelen=6540
+21:28:22 KAPANDI roblox-poc.global.ssl.fastly.net  giden=2022 gelen=55411
+21:28:23 KAPANDI tracing.roblox.com  giden=6898 gelen=2043
+21:28:23 KAPANDI iad5-44-197-17-243.roblox.com  giden=3484 gelen=6530
+21:28:23 KAPANDI ord2-128-116-48-3.roblox.com  giden=3339 gelen=6339
+21:28:23 KAPANDI dfw4-128-116-14-3.roblox.com  giden=3340 gelen=6378
+21:28:23 KAPANDI lax4-128-116-63-3.roblox.com  giden=3339 gelen=6341
+21:28:23 TUNEL CONNECT sc0aws.rbxcdn.com
+21:28:24 TUNEL CONNECT lax2-128-116-116-3.roblox.com
+21:28:24 KAPANDI atl4-128-116-2-3.roblox.com  giden=3337 gelen=6328
+21:28:25 TUNEL CONNECT roblox-poc.global.ssl.fastly.net
+21:28:25 KAPANDI lga4-128-116-30-3.roblox.com  giden=3339 gelen=6339
+21:28:25 KAPANDI lga2-128-116-32-3.roblox.com  giden=3339 gelen=6339
+21:28:25 TUNEL CONNECT lms-aws-us-east-1-lim-1a.roblox.com
+21:28:26 hata ('127.0.0.1', 60447) silver.roblox.com:443: silver.roblox.com:443 baglanamadi (TimeoutError())
+21:28:27 TUNEL CONNECT lax4-128-116-63-3.roblox.com
+21:28:27 KAPANDI fra2-128-116-5-3.roblox.com  giden=3338 gelen=6336
+21:28:27 TUNEL CONNECT sin4-128-116-50-3.roblox.com
+21:28:28 TUNEL CONNECT contentdelivery.roblox.com
+21:28:29 TUNEL CONNECT lms-aws-eu-central-1-ath-1a.roblox.com
+21:28:30 TUNEL CONNECT sin2-128-116-97-3.roblox.com
+21:28:31 TUNEL CONNECT dfw4-128-116-14-3.roblox.com
+21:28:31 TUNEL CONNECT lga2-128-116-32-3.roblox.com
+21:28:32 TUNEL CONNECT fra2-128-116-5-3.roblox.com
+21:28:33 TUNEL CONNECT bom2-128-116-47-3.roblox.com
+21:28:33 TUNEL CONNECT atl4-128-116-2-3.roblox.com
+21:28:34 TUNEL CONNECT lms-aws-ap-southeast-3.roblox.com
+21:28:35 TUNEL CONNECT nrt2-128-116-120-3.roblox.com
+21:28:37 TUNEL CONNECT iad4-128-116-102-3.roblox.com
+21:28:37 TUNEL CONNECT syd1-128-116-51-3.roblox.com
+21:28:39 TUNEL CONNECT sc0gcp.rbxcdn.com
+21:28:53 KAPANDI discord.com  giden=4820 gelen=6328
+21:28:53 TUNEL CONNECT discord.com
+21:29:04 KAPANDI cdn.discordapp.com  giden=2149 gelen=9869
+21:29:04 KAPANDI media.discordapp.net  giden=2165 gelen=17604
+21:29:27 KAPANDI lms-aws-us-east-1-lim-1a.roblox.com  giden=3260 gelen=5026
+21:29:30 KAPANDI lms-aws-eu-central-1-ath-1a.roblox.com  giden=3265 gelen=5032
+21:29:36 KAPANDI lms-aws-ap-southeast-3.roblox.com  giden=3256 gelen=5021
+21:29:43 TUNEL CONNECT apis.roblox.com
+21:29:44 TUNEL CONNECT games.roblox.com
+21:29:44 TUNEL CONNECT voice.roblox.com
+21:29:53 TUNEL CONNECT clientsettingscdn.roblox.com
+21:29:54 KAPANDI clientsettingscdn.roblox.com  giden=3424 gelen=6639
+21:30:13 TUNEL CONNECT lms.roblox.com
+21:30:13 KAPANDI ams2-128-116-21-3.roblox.com  giden=3339 gelen=6338
+21:30:13 KAPANDI cdg2-128-116-13-3.roblox.com  giden=3626 gelen=6666
+21:30:13 KAPANDI lms.roblox.com  giden=3577 gelen=1955
+21:30:13 KAPANDI sin6c2-128-116-46-3.roblox.com  giden=3487 gelen=6500
+21:30:13 KAPANDI gru1-128-116-86-3.roblox.com  giden=3626 gelen=6665
+21:30:13 TUNEL CONNECT iad2-128-116-56-3.roblox.com
+21:30:14 TUNEL CONNECT dfw2-128-116-95-3.roblox.com
+21:30:15 KAPANDI dfw2-128-116-95-3.roblox.com  giden=3341 gelen=6330
+21:30:15 TUNEL CONNECT lms-aws-eu-central-2.roblox.com
+21:30:16 TUNEL CONNECT sin6c2-128-116-46-3.roblox.com
+21:30:16 KAPANDI lhr4-128-116-31-3.roblox.com  giden=3882 gelen=1255
+21:30:16 KAPANDI mia4-128-116-45-3.roblox.com  giden=3339 gelen=6340
+21:30:16 KAPANDI sea1-128-116-115-3.roblox.com  giden=3341 gelen=6339
+21:30:17 TUNEL CONNECT lhr4-128-116-31-3.roblox.com
+21:30:18 TUNEL CONNECT mia4-128-116-45-3.roblox.com
+21:30:18 TUNEL CONNECT gold.roblox.com
+21:30:19 TUNEL CONNECT cdg2-128-116-13-3.roblox.com
+21:30:20 TUNEL CONNECT sea1-128-116-115-3.roblox.com
+21:30:20 TUNEL CONNECT lga4-128-116-30-3.roblox.com
+21:30:21 TUNEL CONNECT iad5-44-197-17-243.roblox.com
+21:30:22 TUNEL CONNECT ams2-128-116-21-3.roblox.com
+21:30:22 KAPANDI sc0ak.rbxcdn.com  giden=2057 gelen=58485
+21:30:22 TUNEL CONNECT gru1-128-116-86-3.roblox.com
+21:30:25 TUNEL CONNECT fra4-128-116-44-3.roblox.com
+21:30:25 TUNEL CONNECT sc0ak.rbxcdn.com
+21:30:26 TUNEL CONNECT lms-aws-us-east-1-mia-2a.roblox.com
+21:30:26 KAPANDI lax4-128-116-63-3.roblox.com  giden=3341 gelen=6341
+21:30:29 KAPANDI contentdelivery.roblox.com  giden=3333 gelen=60163
+21:30:29 TUNEL CONNECT contentdelivery.roblox.com
+21:30:30 TUNEL CONNECT lax4-128-116-63-3.roblox.com
+21:30:31 TUNEL CONNECT tracing.roblox.com
+21:30:31 KAPANDI fra2-128-116-5-3.roblox.com  giden=3339 gelen=6336
+21:30:31 KAPANDI lga2-128-116-32-3.roblox.com  giden=3339 gelen=6339
+21:30:41 KAPANDI atl4-128-116-2-3.roblox.com  giden=3337 gelen=6367
+21:31:04 KAPANDI friends.roblox.com  giden=4071 gelen=5659
+21:31:16 KAPANDI lms-aws-eu-central-2.roblox.com  giden=3253 gelen=5017
+21:31:27 KAPANDI lms-aws-us-east-1-mia-2a.roblox.com  giden=3260 gelen=5026
+21:31:44 KAPANDI apis.roblox.com  giden=6185 gelen=2428
+21:31:44 KAPANDI games.roblox.com  giden=4160 gelen=13106
+21:31:44 KAPANDI voice.roblox.com  giden=3788 gelen=3065
+21:31:54 TUNEL CONNECT clientsettingscdn.roblox.com
+21:31:54 KAPANDI clientsettingscdn.roblox.com  giden=3424 gelen=6639
+21:32:11 KAPANDI ecsv2.roblox.com  giden=15486 gelen=3867
+21:32:13 TUNEL CONNECT lms.roblox.com
+21:32:13 KAPANDI lms.roblox.com  giden=3577 gelen=1945
+21:32:13 KAPANDI iad2-128-116-56-3.roblox.com  giden=3339 gelen=6332
+21:32:14 TUNEL CONNECT atl4-128-116-2-3.roblox.com
+21:32:14 KAPANDI sc0gcp.rbxcdn.com  giden=2201 gelen=113747
+21:32:14 KAPANDI dfw2-128-116-95-3.roblox.com  giden=3340 gelen=6330
+21:32:15 KAPANDI sin6c2-128-116-46-3.roblox.com  giden=3343 gelen=6337
+21:32:17 TUNEL CONNECT lms-aws-eu-central-1-ist-1a.roblox.com
+21:32:17 KAPANDI lhr4-128-116-31-3.roblox.com  giden=3594 gelen=929
+21:32:17 KAPANDI mia4-128-116-45-3.roblox.com  giden=3339 gelen=6340
+21:32:17 TUNEL CONNECT mia4-128-116-45-3.roblox.com
+21:32:18 TUNEL CONNECT gold.roblox.com
+21:32:18 KAPANDI gold.roblox.com  giden=3317 gelen=6338
+21:32:18 TUNEL CONNECT lms-aws-us-east-1-lim-1a.roblox.com
+21:32:18 KAPANDI cdg2-128-116-13-3.roblox.com  giden=3339 gelen=6340
+21:32:19 TUNEL CONNECT lga2-128-116-32-3.roblox.com
+21:32:20 TUNEL CONNECT cdg2-128-116-13-3.roblox.com
+21:32:20 KAPANDI sc0aws.rbxcdn.com  giden=2182 gelen=113553
+21:32:20 KAPANDI iad5-44-197-17-243.roblox.com  giden=3342 gelen=6328
+21:32:20 TUNEL CONNECT sc0.rbxcdn.com
+21:32:21 KAPANDI discord.com  giden=568400 gelen=199262
+21:32:21 TUNEL CONNECT discord.com
+21:32:21 TUNEL CONNECT ams2-128-116-21-3.roblox.com
+21:32:21 TUNEL CONNECT discord.com
+21:32:21 KAPANDI ams2-128-116-21-3.roblox.com  giden=3339 gelen=6338
+21:32:21 TUNEL CONNECT iad2-128-116-56-3.roblox.com
+21:32:22 TUNEL CONNECT dfw2-128-116-95-3.roblox.com
+21:32:23 TUNEL CONNECT sin6c2-128-116-46-3.roblox.com
+21:32:23 KAPANDI dfw4-128-116-14-3.roblox.com  giden=3483 gelen=6502
+21:32:23 KAPANDI sin2-128-116-97-3.roblox.com  giden=3483 gelen=6502
+21:32:23 KAPANDI gru1-128-116-86-3.roblox.com  giden=3339 gelen=6339
+21:32:23 TUNEL CONNECT fra4-128-116-44-3.roblox.com
+21:32:23 KAPANDI fra4-128-116-44-3.roblox.com  giden=3339 gelen=6338
+21:32:24 TUNEL CONNECT sin2-128-116-97-3.roblox.com
+21:32:24 TUNEL CONNECT ord2-128-116-48-3.roblox.com
+21:32:25 KAPANDI sc0ak.rbxcdn.com  giden=2058 gelen=58487
+21:32:25 TUNEL CONNECT lms-aws-ap-northeast-3.roblox.com
+21:32:25 KAPANDI bom2-128-116-47-3.roblox.com  giden=3483 gelen=6500
+21:32:30 TUNEL CONNECT fra2-128-116-5-3.roblox.com
+21:32:31 TUNEL CONNECT bom2-128-116-47-3.roblox.com
+21:32:31 TUNEL CONNECT sin6-128-116-54-3.roblox.com
+21:33:17 KAPANDI lms-aws-eu-central-1-ist-1a.roblox.com  giden=3265 gelen=5031
+21:33:19 KAPANDI lms-aws-us-east-1-lim-1a.roblox.com  giden=3260 gelen=5026
+21:33:30 KAPANDI lms-aws-ap-northeast-3.roblox.com  giden=3372 gelen=5194
+21:33:41 TUNEL CONNECT friends.roblox.com
+21:33:44 TUNEL CONNECT ephemeralcounters.api.roblox.com
+21:33:55 TUNEL CONNECT clientsettingscdn.roblox.com
+21:33:55 KAPANDI clientsettingscdn.roblox.com  giden=3439 gelen=5481
